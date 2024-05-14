@@ -1,0 +1,12 @@
+{
+  "name": "flactowav",
+  "version": "1.0.0",
+  "description": "flac to wav translate shell script",
+  "main": "index.js",
+  "scripts": {
+    "translate":"./script/automate.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
