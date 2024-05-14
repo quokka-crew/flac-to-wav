@@ -44,11 +44,27 @@ chmod +x translate.sh
 
 다음과 같이 automate.sh의 실행권한을 부여합니다.
 
-## 사용
+## 사용방법
 
 flac.txt에 사용하고자하는 경로를 집어넣습니다.
 
+터미널에 다음과 같은 명령어를 입력합니다.
 
+```
+./script/automate.sh
+```
+
+npm과 node가 설치된 PC라면 다음과 같은 명령어로도 동일하게 실행할 수 있습니다.
+
+```
+npm run translate
+```
+
+
+
+
+
+## 커스터마이징
 
 ```
 mkdir -p wav
